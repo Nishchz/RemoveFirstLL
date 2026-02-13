@@ -16,6 +16,10 @@
   </div>
   <div>
     <h1> 🧠 Concept Used</h1>
+    <ol>
+      <li>Data Structure</li>
+      <li>Singly Linked List</li>
+    </ol>
   </div>
 </body>
 

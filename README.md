@@ -20,7 +20,6 @@
       <li>Data Structure</li>
       <li>Singly Linked List</li>
       <li>Node class</li>
-
     </ol>
   </div>
 </body>

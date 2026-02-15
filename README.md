@@ -20,7 +20,7 @@
       <li>Data Structure</li>
       <li>Singly Linked List</li>
       <li>Node class</li>
-      <li>Head and Tail pointers</li>
+     <li>Head and Tail pointers</li>
   </ol>
   </div>
 </body>

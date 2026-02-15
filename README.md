@@ -21,6 +21,7 @@
       <li>Singly Linked List</li>
       <li>Node class</li>
      <li>Head and Tail pointers</li>
+     <li>Size tracking</li>
   </ol>
   </div>
 </body>

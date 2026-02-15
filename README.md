@@ -22,6 +22,7 @@
       <li>Node class</li>
      <li>Head and Tail pointers</li>
      <li>Size tracking</li>
+     <li>O(1) deletion from</li>
   </ol>
   </div>
 </body>

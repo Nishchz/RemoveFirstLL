@@ -36,12 +36,12 @@
   </div>
   <div>
     <h1>🧾 RemoveFirst() Loigic</h1>
-    <ol>
+    <ul>
     <li>If list is empty</li>
       <ul>
         <li>Return </li>
       </ul>
-    </ol>
+    </ul>
   </div>
 </body>
 

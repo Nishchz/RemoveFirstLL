@@ -25,5 +25,11 @@
      <li>O(1) deletion from</li>
   </ol>
   </div>
+  <div>
+    <h1> ⚔️Features</h1>
+    <ol>
+      <li>Add elements aT beginning</li>
+    </ol>
+  </div>
 </body>
 

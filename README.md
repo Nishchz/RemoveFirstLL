@@ -28,9 +28,9 @@
   <div>
     <h1> ⚔️Features</h1>
     <ol>
-      <li>Add elements at beginning<b> addFirst</b></li>
-      <li>Add elements at end<b> addLast</b></li>
-      <li>Remove first at end <b>remove</b></li>
+      <li>Add elements at beginning<b>. addFirst</b></li>
+      <li>Add elements at end<b>. addLast</b></li>
+      <li>Remove first at end <b>. remove</b></li>
     </ol>
   </div>
 </body>

@@ -28,7 +28,7 @@
   <div>
     <h1> ⚔️Features</h1>
     <ol>
-      <li>Add elements aT beginning</li>
+      <li>Add elements at beginning</li>
     </ol>
   </div>
 </body>

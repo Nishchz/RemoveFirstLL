@@ -31,6 +31,16 @@
       <li>Add elements at beginning<b>. addFirst</b></li>
       <li>Add elements at end<b>. addLast</b></li>
       <li>Remove first at end <b>. remove</b></li>
+      <li>print linked list <b> .Print</li>
+    </ol>
+  </div>
+  <div>
+    <h1>🧾 RemoveFirst() Loigic</h1>
+    <ol>
+    <li>If list is empty</li>
+      <ul>
+        <li>Return </li>
+      </ul>
     </ol>
   </div>
 </body>

@@ -39,7 +39,7 @@
     <ul>
     <li>If list is empty</li>
       <ul>
-        <li>Return </li>
+        <li>Return <mark><b>integer.MIN_VALUE and prints a message</b></mark> </li>
       </ul>
     </ul>
   </div>

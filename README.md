@@ -45,7 +45,8 @@
     <ul>
       <li> If list has only one mode</li>
       <ul>
-        <li>Store</li>
+        <li>Store Value</li>
+        <li>Set <mark><b>head</b></mark> and <mark><b>tail</b></mark> to <mark><b>null</b></mark><li>
       </ul>
     </ul>
   </div>

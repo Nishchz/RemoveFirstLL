@@ -44,6 +44,9 @@
     </ul>
     <ul>
       <li> If list has only one mode</li>
+      <ul>
+        <li>Store</li>
+      </ul>
     </ul>
   </div>
 </body>

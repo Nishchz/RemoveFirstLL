@@ -47,8 +47,17 @@
       <ul>
         <li>Store Value</li>
         <li>Set <mark><b>head</b></mark> and <mark><b>tail</b></mark> to <mark><b>null</b></mark><li>
+        <li>Set size to O</li>
+      </ul>
+    </ul
+       <li> If list has multiple node</li>
+      <ul>
+        <li>Store head data</li>
+        <li>Set <mark><b>head</b></mark> and <mark><b>tail</b></mark> to <mark><b>null</b></mark><li>
+        <li>Set size to O</li>
       </ul>
     </ul>
+    
   </div>
 </body>
 

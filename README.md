@@ -40,6 +40,9 @@
     <li>If list is empty</li>
       <ul>
         <li>Return <mark><b>integer.MIN_VALUE and prints a message</b></mark> </li>
+        <ul>
+          <li>If list has only one mode</li>
+        </ul>
       </ul>
     </ul>
   </div>

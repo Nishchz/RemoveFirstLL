@@ -56,9 +56,16 @@
       <ul>
         <li>Store head data</li>
         <li>Move head to <mark><b>head.next</b></mark></li>
-        <li></li>
+        <li>Decrease size</li>
+        <li>Return deleted value</li>
       </ul>
     </ul>
     </div>
+      <div>
+        <ol>
+          <li>Time Complexity :O(1)</li>
+          <li>Space Complexity :O(1)</li>
+        </ol>
+      </div>
 </body>
 

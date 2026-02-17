@@ -55,8 +55,8 @@
        <li> If list has multiple node</li>
       <ul>
         <li>Store head data</li>
-        <li>Set <mark><b>head</b></mark> and <mark><b>tail</b></mark> to <mark><b>null</b></mark></li>
-        <li>Set size to O</li>
+        <li>Move head to <mark><b>head.next</b></mark></li>
+        <li></li>
       </ul>
     </ul>
     </div>
